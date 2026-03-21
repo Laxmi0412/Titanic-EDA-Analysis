@@ -23,5 +23,5 @@ Python · Pandas · NumPy · Seaborn · Matplotlib
 
 ## Author
 Laxmi Rushaali Kuravi
-M.S. Data Analytics — Harrisburg University
+M.S. Business Analytics — Harrisburg University
 SQL · Python · Power BI · scikit-learn · SHAP · XGBoost
