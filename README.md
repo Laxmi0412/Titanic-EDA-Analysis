@@ -15,18 +15,20 @@ actionable business insights.
 - Survivors paid 2.2x higher fares ($48.40 vs $22.12)
 - 20% of age data missing — imputation required for modeling
 
-
-
 ## 📊 Visualizations
 
 ### Chart 1 — Survival Rate by Sex
-![Survival by Sex](chart1_bar_sex.png)
+> Females survived at 74% vs males at 19%
+
+
 
 ### Chart 2 — Survival Rate by Age
-![Survival by Age](chart2_line_age.png)
+> Children aged 0-9 had highest survival (~61%)
 
-### Chart 3 — Age vs Fare (colored by Survival)
-![Age vs Fare](chart3_scatter_age_fare.png)
+### Chart 3 — Age vs Fare
+> Higher fare passengers survived more
+
+
 
 
 
