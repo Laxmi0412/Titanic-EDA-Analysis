@@ -15,6 +15,18 @@ actionable business insights.
 - Survivors paid 2.2x higher fares ($48.40 vs $22.12)
 - 20% of age data missing — imputation required for modeling
 
+## 📊 Visualizations
+
+### Chart 1 — Survival Rate by Sex
+![Survival by Sex](chart1_bar_sex.png)
+
+### Chart 2 — Survival Rate by Age
+![Survival by Age](chart2_line_age.png)
+
+### Chart 3 — Age vs Fare (colored by Survival)
+![Age vs Fare](chart3_scatter_age_fare.png)
+
+
 ## Tools Used
 Python · Pandas · NumPy · Seaborn · Matplotlib
 
@@ -29,7 +41,6 @@ AnalysisFindingOverall survival38.4% survived (342 out of 891)Female survival74.
 Pclass: -0.34 → Higher class = more survival
 Fare: +0.26 → Higher fare = more survival
 Age: -0.08 → Slight negative (older = less survival)
-
 
 ## Author
 Laxmi Rushaali Kuravi
