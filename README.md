@@ -21,6 +21,16 @@ Python · Pandas · NumPy · Seaborn · Matplotlib
 ## Files
 - `titanic_eda.ipynb` — full analysis notebook with charts
 
+📊 Results Summary:
+AnalysisFindingOverall survival38.4% survived (342 out of 891)Female survival74.2% ✅Male survival18.9%1st Class survival63.0% ✅2nd Class survival47.3%3rd Class survival24.2%Avg fare (survived)$48.40Avg fare (died)$22.12
+
+🔥 Strongest Correlations with Survival:
+
+Pclass: -0.34 → Higher class = more survival
+Fare: +0.26 → Higher fare = more survival
+Age: -0.08 → Slight negative (older = less survival)
+
+
 ## Author
 Laxmi Rushaali Kuravi
 M.S. Business Analytics — Harrisburg University
