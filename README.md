@@ -15,6 +15,8 @@ actionable business insights.
 - Survivors paid 2.2x higher fares ($48.40 vs $22.12)
 - 20% of age data missing — imputation required for modeling
 
+
+
 ## 📊 Visualizations
 
 ### Chart 1 — Survival Rate by Sex
@@ -25,6 +27,9 @@ actionable business insights.
 
 ### Chart 3 — Age vs Fare (colored by Survival)
 ![Age vs Fare](chart3_scatter_age_fare.png)
+
+
+
 
 
 ## Tools Used
